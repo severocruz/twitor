@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T16:24:52.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.1" etag="0esEr-zzC_XjJB3nLgJT" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T16:34:49.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Nh0z57ZpSYnZkQ0-F0gX" version="22.1.1" type="github">
   <diagram name="Página-1" id="w0e9lN6FAm0nyW3ddYeq">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="33LNgJjM1-mqK_U-j7uh-1" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;La&amp;nbsp;diversidad de géneros musicales autóctonos a menudo carece de un sistema&amp;nbsp;efectivo de clasificación y reconocimiento automático&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="33LNgJjM1-mqK_U-j7uh-2" value="La&amp;nbsp;información que se encuentra tanto en Internet como en sitios no oficiales&amp;nbsp;sobre un género musical autóctono a partir de un fragmento de audio muchas&amp;nbsp;veces esta dispersa y en ocasiones puede ser errónea" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="370" width="166" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="33LNgJjM1-mqK_U-j7uh-3" value="Se&lt;br&gt;desvirtúan las manifestaciones culturales autóctonas de un pueblo dificultando&lt;br&gt;su preservación y difusión" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="180" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
