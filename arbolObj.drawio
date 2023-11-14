@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T17:53:12.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-Q5gyUMCVxLF3Q0URLdM" version="22.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T17:58:51.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3b3UYfc-FIMrn4E3VyEz" version="22.1.1" type="github">
   <diagram name="Página-1" id="cV-IPnAX19XSvIz9y4ja">
     <mxGraphModel dx="880" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,28 +7,28 @@
         <mxCell id="LB9BrMyd9C4SIpnUd5Zn-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Desarrollar&amp;nbsp;un &lt;span style=&quot;font-family: Arial, sans-serif;&quot; lang=&quot;ES&quot;&gt;modelo&amp;nbsp;de reconocimiento de géneros musicales autóctonos&amp;nbsp; mediante técnicas de machine&amp;nbsp;learning capaz de reconocer sus características a&amp;nbsp; partir de un fragmento de&amp;nbsp;audio para obtener su información cultural y de origen&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="240" y="217" width="440" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LB9BrMyd9C4SIpnUd5Zn-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LB9BrMyd9C4SIpnUd5Zn-2" value="Realizar&lt;br/&gt;la recolección y clasificación de información cultural y de origen de 4 géneros&lt;br/&gt;autóctonos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="350" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LB9BrMyd9C4SIpnUd5Zn-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LB9BrMyd9C4SIpnUd5Zn-3" value="contar&lt;br/&gt;con la información estructurada y de acceso rápido" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="50" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LB9BrMyd9C4SIpnUd5Zn-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="350" width="150" height="90" as="geometry" />
+        <mxCell id="LB9BrMyd9C4SIpnUd5Zn-4" value="Desarrollar&lt;br/&gt;una aplicación móvil para el consumo de la información obtenida del modelo de&lt;br/&gt;reconocimiento de géneros musicales autóctonos&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="350" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LB9BrMyd9C4SIpnUd5Zn-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LB9BrMyd9C4SIpnUd5Zn-5" value="acceso&lt;br/&gt;rápido a la información inherente a un género musical autóctono&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="100" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LB9BrMyd9C4SIpnUd5Zn-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="350" width="150" height="90" as="geometry" />
+        <mxCell id="LB9BrMyd9C4SIpnUd5Zn-6" value="Diseñar&lt;br/&gt;un sistema de detección de los 4 géneros musicales mediante el empleo de&lt;br/&gt;arquitecturas y algoritmos para Machine Learning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="350" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LB9BrMyd9C4SIpnUd5Zn-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LB9BrMyd9C4SIpnUd5Zn-7" value="reconocimiento&lt;br/&gt;y posterior clasificación" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="50" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LB9BrMyd9C4SIpnUd5Zn-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="340" width="220" height="110" as="geometry" />
+        <mxCell id="LB9BrMyd9C4SIpnUd5Zn-8" value="Desarrollar&lt;br/&gt;un servicio web mediante la interfaz de comunicación API REST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="355" width="170" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LB9BrMyd9C4SIpnUd5Zn-9" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LB9BrMyd9C4SIpnUd5Zn-9" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Permitir&lt;br/&gt;el acceso a la información previamente recopilada y estructurada de un&lt;br/&gt;determinado género musical autóctono&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="70" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LB9BrMyd9C4SIpnUd5Zn-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.523;entryY=0.933;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="LB9BrMyd9C4SIpnUd5Zn-1">
@@ -58,7 +58,7 @@
         </mxCell>
         <mxCell id="LB9BrMyd9C4SIpnUd5Zn-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="689.5" y="340" as="sourcePoint" />
+            <mxPoint x="690" y="350" as="sourcePoint" />
             <mxPoint x="470" y="310" as="targetPoint" />
             <Array as="points">
               <mxPoint x="689.5" y="330" />
